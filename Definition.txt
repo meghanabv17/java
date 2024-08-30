@@ -1,0 +1,13 @@
+Polymorphism allows us to perform a single action in different ways
+Object can be behaving as multiple type with a given instance of time called polymorphism;
+polymorphism : polymorphism can be created by using parent reference with the child constructor;
+
+Constrctor: constructor is a special type of method with same name as a class name without any return type;
+constructor are created at the time of object creation;
+Syntax: classname ref = new contructor;
+
+Inheritance : The property of getting the data from one class to another class is called inheritance;
+ie parent class to child class or base class to derived class or from super class to sub class;
+Inheritance can be achieved by using a keyword called "extends";
+
+Encapsulation : Grouping a data in single entity;
